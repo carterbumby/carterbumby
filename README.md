@@ -10,6 +10,7 @@
   <h4><li>Biiiig fan of the Kansas City Chiefs and any St. Louis sports</li></h4>
   <h4><li>In my free time I enjoy...</li></h4>
   <ul>
+    <h4><li>Archery</li></h4>
     <h4><li>Learning new frameworks and tools</li></h4>
     <h4><li>Playing video games</li></h4>
     <h4><li>Web development</li></h4>
