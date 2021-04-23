@@ -17,3 +17,6 @@
     <h4><li>Web scraping</li></h4>
   </ul>
 </ul>
+<br></br>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carterbumby&langs_count=5&theme=nightowl)]() |[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=carterbumby&count_private=true&theme=nightowl&showicons=true)]()
