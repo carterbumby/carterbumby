@@ -1,6 +1,6 @@
 # :wave: Hello, I am Carter Bumby
 <ul>
-  <h2><li>Software Developer Intern at R.D. Offutt Company</li></h2>
+  <h3><li>Software Developer Intern at R.D. Offutt Company</li></h3>
   <h3><li>Computer Science and Mathematics major at North Dakota State University</li></h3>
   <h3><li>Graduating December 2021</li></h3>
 </ul>
