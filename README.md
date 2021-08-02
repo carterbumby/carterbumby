@@ -15,7 +15,7 @@
     <h4><li>Learning new frameworks and tools</li></h4>
     <h4><li>Playing video games</li></h4>
     <h4><li>Web development</li></h4>
-    <h4><li>Working on side projects/li></h4>
+    <h4><li>Working on side projects</li></h4>
   </ul>
 </ul>
 <br></br>
