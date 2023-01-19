@@ -1,6 +1,6 @@
 # :wave: Hello, I am Carter Bumby
 <ul>
-  <h3><li>Software Developer at R.D. Offutt Company</li></h3>
+  <h3><li>Software Developer</li></h3>
   <h3><li>B.S. in Computer Science and Mathematics from North Dakota State University</li></h3>
 </ul>
 <br>
